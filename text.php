@@ -84,7 +84,7 @@
                             <h6 class="card-title font-weight-bold text-info">玉美人孕婦裝觀光工廠</h6>
                             <p class="card-text">提供懷孕相關資訊，線上銷售孕婦所穿之洋裝、連身裙、孕婦褲。</p><br>
                             <div class="card-footer text-muted">
-                                <a href="http://www.ymr.com.tw/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="http://www.ymr.com.tw/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -96,7 +96,7 @@
                             <h6 class="card-title font-weight-bold text-info">牛軋糖博物館</h6>
                             <p class="card-text">全國「唯一」牛軋糖博物館超過65個國家蒞臨參訪過,觀光工廠「唯一」有劇團表演。</p>
                             <div class="card-footer text-muted">
-                                <a href="http://www.9420.com.tw/museum/te/homepage/te_homepage.html" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="http://www.9420.com.tw/museum/te/homepage/te_homepage.html" target="_blank" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>       
                         </div>
                     </div>
@@ -108,7 +108,7 @@
                             <h6 class="card-title font-weight-bold text-info">維格餅家鳳梨酥夢工場</h6>
                             <p class="card-text">主題館藉由鳳梨的「旺來」意象而設計,融入最新互動科技體驗。</p><br>
                             <div class="card-footer text-muted">
-                                <a href="http://www.dream-vigor.com/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="http://www.dream-vigor.com/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>                           
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                             <h6 class="card-title font-weight-bold text-info">茶山房肥皂文化體驗館</h6>
                             <p class="card-text">「茶山房」獨特浮水肥皂，萃取天然草本植物調製成自然純淨、無化學香精的手工皂。</p>
                             <div class="card-footer text-muted">
-                                <a href="https://www.teasoap.com.tw/visitinfo/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="https://www.teasoap.com.tw/visitinfo/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -132,7 +132,7 @@
                             <h6 class="card-title font-weight-bold text-info">琉傳天下藝術館</h6>
                             <p class="card-text">琉璃搭配花園創藝幻化為『琉星花園』，營造悠閒舒適、明亮繽紛、美觀之休閒空間。</p>
                             <div class="card-footer text-muted">
-                                <a href="http://glastory.blogspot.com/p/blog-page_1.html" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="http://glastory.blogspot.com/p/blog-page_1.html" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
                             <h6 class="card-title font-weight-bold text-info">手信坊和菓子文化館</h6>
                             <p class="card-text">近年健康意識興起，手信坊引領和果子邁向低糖、少油、高纖、低熱量的輕食新風尚。</p>
                             <div class="card-footer text-muted">
-                                <a href="http://www.3ssf.com.tw/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="http://www.3ssf.com.tw/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -156,7 +156,7 @@
                             <h6 class="card-title font-weight-bold text-info">許新旺陶瓷紀念博物館</h6>
                             <p class="card-text">新旺集瓷，新旺代表著傳承新旺阿公的製陶精神，集瓷代表著創新。</p><br>
                             <div class="card-footer text-muted">
-                                <a href="http://www.shuandws.com/shw_index.php" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="http://www.shuandws.com/shw_index.php" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>                          
                         </div>
                     </div>
@@ -168,7 +168,7 @@
                             <h6 class="card-title font-weight-bold text-info">宏洲磁磚觀光工廠</h6>
                             <p class="card-text">進入宏洲的廠房，本應是塵土飛揚的磁磚工廠，竟然有如科技廠房一般清爽，令人驚豔。</p>
                             <div class="card-footer text-muted">
-                                 <a href="http://hjtilemuseum.com.tw/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                 <a href="http://hjtilemuseum.com.tw/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>                          
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                             <h6 class="card-title font-weight-bold text-info">工研益壽多文化館</h6>
                             <p class="card-text">於1941年誕生，是台灣第一間釀酢工廠,至今堅持以「天然純釀」的原則，誠信經營。</p>
                             <div class="card-footer text-muted">
-                               <a href="https://www.kongyen.com.tw/cultural_center/03.html" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                               <a href="https://www.kongyen.com.tw/cultural_center/03.html" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -192,7 +192,7 @@
                             <h6 class="card-title font-weight-bold text-info">光淙金工藝術館</h6>
                             <p class="card-text">全國唯一珠寶飾品 優良觀光工廠，行銷國內外知名珠寶飾品大廠。</p><br>
                             <div class="card-footer text-muted">
-                                 <a href="http://www.jewelrymuseumtaiwan.com/index.asp" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                 <a href="http://www.jewelrymuseumtaiwan.com/index.asp" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -204,7 +204,7 @@
                             <h6 class="card-title font-weight-bold text-info">台灣不二衛生套知識館</h6>
                             <p class="card-text">提供便宜又可靠的衛生套，也自創夫力士、富仕康等品牌，行銷世界五大洲。</p>
                             <div class="card-footer text-muted">
-                                <a href="http://www.fulex.com.tw/center/about.html" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="http://www.fulex.com.tw/center/about.html" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -216,7 +216,7 @@
                             <h6 class="card-title font-weight-bold text-info">王鼎時間科藝體驗館</h6>
                             <p class="card-text">以時間為主題透過五感來體驗時間，是一座融合時間知識、科學與藝術的時間殿堂。</p>
                             <div class="card-footer text-muted">
-                                 <a href="https://www.atoptimearts.com/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                 <a href="https://www.atoptimearts.com/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -228,7 +228,7 @@
                             <h6 class="card-title font-weight-bold text-info">台灣農林大寮茶文館</h6>
                             <p class="card-text">台灣農林的百年歷史，也如同沉澱時光的故事寶盒，走過台灣茶業的興衰榮枯。</p>
                             <div class="card-footer text-muted">
-                                <a href="https://www.ttch.com.tw/zh/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="https://www.ttch.com.tw/zh/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -240,7 +240,7 @@
                             <h6 class="card-title font-weight-bold text-info">四季紙品手創館</h6>
                             <p class="card-text">以卡片起家的四季，力求變化，精益求精，成為業界的龍頭品牌。</p><br>
                             <div class="card-footer text-muted">
-                               <a href="https://www.seasonpaper.com/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                               <a href="https://www.seasonpaper.com/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -252,7 +252,7 @@
                             <h6 class="card-title font-weight-bold text-info">吳福洋襪子故事館</h6>
                             <p class="card-text">吳福洋針織是台灣第一家襪子工廠，對襪子品質保有著最高的堅持。</p><br>
                             <div class="card-footer text-muted">
-                               <a href="http://www.socksmuseum.com/visit.php" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                               <a href="http://www.socksmuseum.com/visit.php" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -264,7 +264,7 @@
                             <h6 class="card-title font-weight-bold text-info">阮的肉干產業概念館</h6>
                             <p class="card-text">專業的牛肉批發，堅持對美味的嚴格，嚴格挑選品質上等的牛肉，讓牛肉干的美味提升。</p>
                             <div class="card-footer text-muted">
-                               <a href="https://www.beefpro.com.tw/beefpro/index.php" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                               <a href="https://www.beefpro.com.tw/beefpro/index.php" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -276,7 +276,7 @@
                             <h6 class="card-title font-weight-bold text-info">坪林茶產業文化館</h6>
                             <p class="card-text">坪林農會創立於1919年，致力於推動農業生產，並協助坪林區的農務狀況。</p>
                             <div class="card-footer text-muted">
-                               <a href="http://pinglin.tpcgo.org.tw/_file/2549/upload/tea/index.html" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                               <a href="http://pinglin.tpcgo.org.tw/_file/2549/upload/tea/index.html" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -288,7 +288,7 @@
                             <h6 class="card-title font-weight-bold text-info">市拿陶藝文化館</h6>
                             <p class="card-text">市拿陶藝的誕生將中國明清古典瓷器的縟麗重新呈現，寫下台灣藝術陶瓷史上的第一頁。</p>
                             <div class="card-footer text-muted">
-                               <a href="https://hot-shop.cc/r-a31-72zbbfsg7acvembsy.html" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                               <a href="https://hot-shop.cc/r-a31-72zbbfsg7acvembsy.html" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -300,7 +300,7 @@
                             <h6 class="card-title font-weight-bold text-info">印地安皮革創意工場</h6>
                             <p class="card-text">専責推廣綠色無毒環保自然的植鞣皮革手工藝，並積極導入極簡風格，人人能夠入手。</p>
                             <div class="card-footer text-muted">
-                               <a href="https://www.indiandiy.com/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                               <a href="https://www.indiandiy.com/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -312,7 +312,7 @@
                             <h6 class="card-title font-weight-bold text-info">新太源藝術工坊</h6>
                             <p class="card-text">從「藝術、生活、品味」三大主軸理念為出發點，培養大家對藝術的鑑賞能力。</p>
                             <div class="card-footer text-muted">
-                                <a href="https://www.sty-art.com.tw/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                                <a href="https://www.sty-art.com.tw/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -324,7 +324,7 @@
                             <h6 class="card-title font-weight-bold text-info">亞洛美精靈國度</h6>
                             <p class="card-text">亞洲最大的香氛生產商，深根香氛市場20多年，已然了解香味與回憶的藕斷絲連。</p><br>
                             <div class="card-footer text-muted">
-                               <a href="https://www.wonderland-aromate.com/" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                               <a href="https://www.wonderland-aromate.com/" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
@@ -336,7 +336,7 @@
                             <h6 class="card-title font-weight-bold text-info">安美得傷口照護產業文化館</h6>
                             <p class="card-text">致力於傷口照護的核心技術研發、生產製造、通路行銷，以及產品衛教服務。</p>
                             <div class="card-footer text-muted">
-                               <a href="http://www.amed.com.tw/tw/main-categories/category/53" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
+                               <a href="http://www.amed.com.tw/tw/main-categories/category/53" target="_blank" class="btn btn-info btn-sm text-white"><i class="fas fa-blog">WEB</i></a>
                             </div>
                         </div>
                     </div>
